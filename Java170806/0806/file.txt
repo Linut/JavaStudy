@@ -1,0 +1,23 @@
+A young intelligent turtle!!! 
+o 命令是下面另起一行，还有i a 命令。
+O命令是上面另起一行。
+That liked using VIM.
+Found programming UNIX a hurdle!!这个是a字符插入
+这个是O命令插入
+这个是o命令插入
+这是一个测试文件
+尝试使用GVIM
+This is a line with example include text.
+    To test the order "0" and '$'.include
+include
+if (a == (b * c) / d )
+
+a
+
+a
+a
+a
+aj
+
+a
+
